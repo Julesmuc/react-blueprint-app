@@ -1,0 +1,30 @@
+.icon-cold {
+
+    top: 10px;
+    left : 10px;
+    color: aqua
+}
+.icon-hot {
+    top: 10px;
+    left : 10px;
+    color: darkorange
+}
+
+.season-display{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.textStyle {
+    text-align: center
+}
+.winter {
+    background-color: aliceblue
+}
+.summer {
+    background-color: beige
+}
+
+.border-aqua {
+    border: aqua
+}
